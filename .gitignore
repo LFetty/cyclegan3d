@@ -1,0 +1,5 @@
+cache/**
+outputs/**
+wand/**
+__pycache__/**
+
